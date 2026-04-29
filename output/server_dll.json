@@ -182,7 +182,7 @@
       "CBaseCSGrenade": {
         "fields": {},
         "metadata": [],
-        "parent": "server"
+        "parent": null
       },
       "CBaseCSGrenadeProjectile": {
         "fields": {},
@@ -499,7 +499,7 @@
       "CCSGO_TeamSelectCharacterPosition": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": "xL���"
       },
       "CCSGO_TeamSelectCounterTerroristPosition": {
         "fields": {},
@@ -906,7 +906,7 @@
       "CDecoyProjectile": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": null
       },
       "CDestructiblePart": {
         "fields": {
@@ -1503,7 +1503,7 @@
       "CFuncTrain": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": "server"
       },
       "CFuncTrainControls": {
         "fields": {},
@@ -1573,7 +1573,7 @@
       "CGameRulesProxy": {
         "fields": {},
         "metadata": [],
-        "parent": "�F{0�"
+        "parent": " GB{�"
       },
       "CGameSceneNode": {
         "fields": {},
@@ -1965,7 +1965,7 @@
       "CLogicBranch": {
         "fields": {},
         "metadata": [],
-        "parent": "��~0�"
+        "parent": "��E{�"
       },
       "CLogicBranchList": {
         "fields": {},
@@ -2354,7 +2354,7 @@
       "CParticleSystem": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": "xL���"
       },
       "CPathCorner": {
         "fields": {},
@@ -3357,7 +3357,7 @@
       "CRandSimTimer": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": "DOOR_STATE_CLOSED"
       },
       "CRandStopwatch": {
         "fields": {},
@@ -3628,7 +3628,7 @@
       "CSimpleStopwatch": {
         "fields": {},
         "metadata": [],
-        "parent": "0�{0�"
+        "parent": "��B{�"
       },
       "CSingleplayRules": {
         "fields": {},
@@ -3829,7 +3829,7 @@
       "CStopwatch": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": "MIsBoxedIntegerType"
       },
       "CStopwatchBase": {
         "fields": {},
@@ -3948,7 +3948,7 @@
       "CTextureBasedAnimatable": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": "server"
       },
       "CTimeline": {
         "fields": {},
@@ -4058,7 +4058,7 @@
       "CTriggerMultiple": {
         "fields": {},
         "metadata": [],
-        "parent": "\u0010D0�"
+        "parent": "�DF{�"
       },
       "CTriggerOnce": {
         "fields": {},
@@ -4138,7 +4138,7 @@
       "CWeaponAWP": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": "eLightEffectNone"
       },
       "CWeaponAug": {
         "fields": {},

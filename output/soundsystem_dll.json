@@ -199,7 +199,7 @@
       "CVMixBoxverbProcessorDesc": {
         "fields": {},
         "metadata": [],
-        "parent": "`B�a�"
+        "parent": "�B���"
       },
       "CVMixCommand": {
         "fields": {
@@ -288,7 +288,7 @@
       "CVMixFilterProcessorDesc": {
         "fields": {},
         "metadata": [],
-        "parent": "`B�a�"
+        "parent": "�B���"
       },
       "CVMixFlangerProcessorDesc": {
         "fields": {},
@@ -337,7 +337,7 @@
       "CVMixOscProcessorDesc": {
         "fields": {},
         "metadata": [],
-        "parent": "`B�a�"
+        "parent": "�B���"
       },
       "CVMixPannerProcessorDesc": {
         "fields": {},
@@ -352,7 +352,7 @@
       "CVMixPlateReverbProcessorDesc": {
         "fields": {},
         "metadata": [],
-        "parent": "`B�a�"
+        "parent": "�B���"
       },
       "CVMixPresetDSPProcessorDesc": {
         "fields": {},
@@ -362,7 +362,7 @@
       "CVMixShaperProcessorDesc": {
         "fields": {},
         "metadata": [],
-        "parent": "`B�a�"
+        "parent": "�B���"
       },
       "CVMixSteamAudioDirectProcessorDesc": {
         "fields": {},
@@ -392,7 +392,7 @@
       "CVMixSubgraphSwitchProcessorDesc": {
         "fields": {},
         "metadata": [],
-        "parent": "`B�a�"
+        "parent": "�B���"
       },
       "CVMixUtilityProcessorDesc": {
         "fields": {},

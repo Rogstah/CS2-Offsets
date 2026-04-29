@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-22 15:37:44.602417 UTC
+// 2026-04-29 19:17:44.946586800 UTC
 
 #![allow(non_upper_case_globals, non_camel_case_types, non_snake_case, unused)]
 
@@ -181,7 +181,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_EnvWindShared {
             }
-            // Parent: 0_____
+            // Parent: 0__y__
             // Field count: 0
             pub mod C_SkyCamera {
             }
@@ -310,7 +310,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_VoteController {
             }
-            // Parent: None
+            // Parent: eLightEffectNone
             // Field count: 0
             pub mod C_C4 {
             }
@@ -350,11 +350,11 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_WeaponAWP {
             }
-            // Parent: ______
+            // Parent: p__y__
             // Field count: 0
             pub mod C_BaseButton {
             }
-            // Parent: None
+            // Parent: client
             // Field count: 0
             pub mod CCSObserver_ObserverServices {
             }
@@ -398,7 +398,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_WeaponUMP45 {
             }
-            // Parent: client
+            // Parent: None
             // Field count: 0
             pub mod C_WeaponG3SG1 {
             }
@@ -535,7 +535,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CPulseCell_FireCursors {
             }
-            // Parent: None
+            // Parent: xL____
             // Field count: 0
             pub mod CEnvSoundscape {
             }
@@ -638,7 +638,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_CSWeaponBase {
             }
-            // Parent: _____
+            // Parent: p__y__
             // Field count: 0
             pub mod CTimeline {
             }
@@ -708,7 +708,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod shard_model_desc_t {
             }
-            // Parent: None
+            // Parent: client
             // Field count: 0
             pub mod C_KeychainModule {
             }
@@ -749,11 +749,11 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_FuncLadder {
             }
-            // Parent: None
+            // Parent: client
             // Field count: 0
             pub mod C_WeaponMP5SD {
             }
-            // Parent: client
+            // Parent: None
             // Field count: 0
             pub mod C_World {
             }
@@ -1014,7 +1014,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_Chicken {
             }
-            // Parent: None
+            // Parent: xL____
             // Field count: 0
             pub mod C_BasePlayerPawn {
             }
@@ -1230,7 +1230,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_TintController {
             }
-            // Parent: None
+            // Parent: client
             // Field count: 0
             pub mod C_WeaponBaseItem {
             }
@@ -1508,7 +1508,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_DynamicProp {
             }
-            // Parent: None
+            // Parent: xL____
             // Field count: 0
             pub mod C_CSTeam {
             }
@@ -1708,7 +1708,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CPulseMathlib {
             }
-            // Parent: xL____
+            // Parent: None
             // Field count: 0
             pub mod C_NametagModule {
             }
@@ -1732,7 +1732,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CPulseCell_Unknown {
             }
-            // Parent: x1____
+            // Parent: _0_x__
             // Field count: 0
             pub mod C_WeaponMP7 {
             }
@@ -1752,7 +1752,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_CS2HudModelBase {
             }
-            // Parent: MGetKV3ClassDefaults
+            // Parent: None
             // Field count: 0
             pub mod C_CSGameRules {
             }
@@ -1862,7 +1862,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_WeaponM4A1 {
             }
-            // Parent: ______
+            // Parent: 0__y__
             // Field count: 0
             pub mod C_Item {
             }
@@ -2028,7 +2028,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_CSGO_MapPreviewCameraPathNode {
             }
-            // Parent: client
+            // Parent: None
             // Field count: 0
             pub mod C_CSPlayerResource {
             }
@@ -2145,7 +2145,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CBasePlayerWeaponVData {
             }
-            // Parent: None
+            // Parent: xL____
             // Field count: 0
             pub mod CInfoInteraction {
             }
@@ -2169,7 +2169,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_PointClientUIWorldPanel {
             }
-            // Parent: ______
+            // Parent: ___y__
             // Field count: 0
             pub mod C_EntityFlame {
             }

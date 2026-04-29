@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-22 15:37:44.602417 UTC
+// 2026-04-29 19:17:44.946586800 UTC
 
 #pragma once
 
@@ -75,7 +75,7 @@ namespace cs2_dumper {
             namespace CSSDSEndFrameViewInfo {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
-            // Parent: scenesystem
+            // Parent: None
             // Field count: 0
             namespace CSSDSMsg_PostLayer {
             }
@@ -84,7 +84,7 @@ namespace cs2_dumper {
             namespace CSSDSMsg_LayerBase {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
-            // Parent: None
+            // Parent: xL____
             // Field count: 0
             namespace CSSDSMsg_PreLayer {
             }

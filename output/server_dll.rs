@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-22 15:37:44.602417 UTC
+// 2026-04-29 19:17:44.946586800 UTC
 
 #![allow(non_upper_case_globals, non_camel_case_types, non_snake_case, unused)]
 
@@ -2409,7 +2409,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CCSPlayer_UseServices {
             }
-            // Parent: None
+            // Parent: eLightEffectNone
             // Field count: 0
             pub mod CWeaponAWP {
             }
@@ -2831,7 +2831,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CPulseCell_Value_Gradient {
             }
-            // Parent: None
+            // Parent: xL____
             // Field count: 0
             pub mod CParticleSystem {
             }
@@ -3028,7 +3028,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CLogicDistanceAutosave {
             }
-            // Parent: ___0__
+            // Parent: __E___
             // Field count: 0
             pub mod CLogicBranch {
             }
@@ -3177,7 +3177,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CMultiSource {
             }
-            // Parent: server
+            // Parent: None
             // Field count: 0
             pub mod CBaseCSGrenade {
             }
@@ -3814,7 +3814,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CCSGO_TeamPreviewCharacterPosition {
             }
-            // Parent: _F_0__
+            // Parent: _GB___
             // Field count: 0
             pub mod CGameRulesProxy {
             }
@@ -4009,7 +4009,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CFilterMultipleAPI {
             }
-            // Parent: xL____
+            // Parent: None
             // Field count: 0
             pub mod CDecoyProjectile {
             }
@@ -4163,7 +4163,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CScriptComponent {
             }
-            // Parent: xL____
+            // Parent: server
             // Field count: 0
             pub mod CFuncTrain {
             }
@@ -4455,7 +4455,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CMarkupVolumeWithRef {
             }
-            // Parent: None
+            // Parent: xL____
             // Field count: 0
             pub mod CCSGO_TeamSelectCharacterPosition {
             }
@@ -4633,7 +4633,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CPointGamestatsCounter {
             }
-            // Parent: None
+            // Parent: server
             // Field count: 0
             pub mod CTextureBasedAnimatable {
             }
@@ -4717,7 +4717,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CFlashbangProjectile {
             }
-            // Parent: _D_0__
+            // Parent: _DF___
             // Field count: 0
             pub mod CTriggerMultiple {
             }
@@ -5436,7 +5436,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CNmEventConsumerAttributes {
             }
-            // Parent: None
+            // Parent: MIsBoxedIntegerType
             // Field count: 0
             pub mod CStopwatch {
             }
@@ -5604,7 +5604,7 @@ pub mod cs2_dumper {
             pub mod PhysObjectHeader_t {
                 pub const : usize = 0x0; // 
             }
-            // Parent: 0__0__
+            // Parent: __B___
             // Field count: 0
             pub mod CSimpleStopwatch {
             }
@@ -5818,7 +5818,7 @@ pub mod cs2_dumper {
             pub mod CTakeDamageInfo {
                 pub const : usize = 0x0; // 
             }
-            // Parent: None
+            // Parent: DOOR_STATE_CLOSED
             // Field count: 0
             pub mod CRandSimTimer {
             }

@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-22 15:37:44.602417 UTC
+// 2026-04-29 19:17:44.946586800 UTC
 
 pub const cs2_dumper = struct {
     pub const schemas = struct {
@@ -2228,7 +2228,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CCSPlayer_UseServices = struct {
             };
-            // Parent: None
+            // Parent: eLightEffectNone
             // Field count: 0
             pub const CWeaponAWP = struct {
             };
@@ -2650,7 +2650,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CPulseCell_Value_Gradient = struct {
             };
-            // Parent: None
+            // Parent: xL____
             // Field count: 0
             pub const CParticleSystem = struct {
             };
@@ -2847,7 +2847,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CLogicDistanceAutosave = struct {
             };
-            // Parent: ___0__
+            // Parent: __E___
             // Field count: 0
             pub const CLogicBranch = struct {
             };
@@ -2996,7 +2996,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CMultiSource = struct {
             };
-            // Parent: server
+            // Parent: None
             // Field count: 0
             pub const CBaseCSGrenade = struct {
             };
@@ -3633,7 +3633,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CCSGO_TeamPreviewCharacterPosition = struct {
             };
-            // Parent: _F_0__
+            // Parent: _GB___
             // Field count: 0
             pub const CGameRulesProxy = struct {
             };
@@ -3828,7 +3828,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CFilterMultipleAPI = struct {
             };
-            // Parent: xL____
+            // Parent: None
             // Field count: 0
             pub const CDecoyProjectile = struct {
             };
@@ -3982,7 +3982,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CScriptComponent = struct {
             };
-            // Parent: xL____
+            // Parent: server
             // Field count: 0
             pub const CFuncTrain = struct {
             };
@@ -4274,7 +4274,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CMarkupVolumeWithRef = struct {
             };
-            // Parent: None
+            // Parent: xL____
             // Field count: 0
             pub const CCSGO_TeamSelectCharacterPosition = struct {
             };
@@ -4452,7 +4452,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CPointGamestatsCounter = struct {
             };
-            // Parent: None
+            // Parent: server
             // Field count: 0
             pub const CTextureBasedAnimatable = struct {
             };
@@ -4536,7 +4536,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CFlashbangProjectile = struct {
             };
-            // Parent: _D_0__
+            // Parent: _DF___
             // Field count: 0
             pub const CTriggerMultiple = struct {
             };
@@ -5255,7 +5255,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CNmEventConsumerAttributes = struct {
             };
-            // Parent: None
+            // Parent: MIsBoxedIntegerType
             // Field count: 0
             pub const CStopwatch = struct {
             };
@@ -5423,7 +5423,7 @@ pub const cs2_dumper = struct {
             pub const PhysObjectHeader_t = struct {
                 pub const @"": usize = 0x0; // 
             };
-            // Parent: 0__0__
+            // Parent: __B___
             // Field count: 0
             pub const CSimpleStopwatch = struct {
             };
@@ -5637,7 +5637,7 @@ pub const cs2_dumper = struct {
             pub const CTakeDamageInfo = struct {
                 pub const @"": usize = 0x0; // 
             };
-            // Parent: None
+            // Parent: DOOR_STATE_CLOSED
             // Field count: 0
             pub const CRandSimTimer = struct {
             };

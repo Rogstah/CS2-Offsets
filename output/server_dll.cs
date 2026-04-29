@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-22 15:37:44.602417 UTC
+// 2026-04-29 19:17:44.946586800 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: server.dll
@@ -2263,7 +2263,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CCSPlayer_UseServices {
         }
-        // Parent: None
+        // Parent: eLightEffectNone
         // Field count: 0
         public static class CWeaponAWP {
         }
@@ -2685,7 +2685,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CPulseCell_Value_Gradient {
         }
-        // Parent: None
+        // Parent: xL____
         // Field count: 0
         public static class CParticleSystem {
         }
@@ -2882,7 +2882,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CLogicDistanceAutosave {
         }
-        // Parent: ___0__
+        // Parent: __E___
         // Field count: 0
         public static class CLogicBranch {
         }
@@ -3031,7 +3031,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CMultiSource {
         }
-        // Parent: server
+        // Parent: None
         // Field count: 0
         public static class CBaseCSGrenade {
         }
@@ -3668,7 +3668,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CCSGO_TeamPreviewCharacterPosition {
         }
-        // Parent: _F_0__
+        // Parent: _GB___
         // Field count: 0
         public static class CGameRulesProxy {
         }
@@ -3863,7 +3863,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CFilterMultipleAPI {
         }
-        // Parent: xL____
+        // Parent: None
         // Field count: 0
         public static class CDecoyProjectile {
         }
@@ -4017,7 +4017,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CScriptComponent {
         }
-        // Parent: xL____
+        // Parent: server
         // Field count: 0
         public static class CFuncTrain {
         }
@@ -4309,7 +4309,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CMarkupVolumeWithRef {
         }
-        // Parent: None
+        // Parent: xL____
         // Field count: 0
         public static class CCSGO_TeamSelectCharacterPosition {
         }
@@ -4487,7 +4487,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CPointGamestatsCounter {
         }
-        // Parent: None
+        // Parent: server
         // Field count: 0
         public static class CTextureBasedAnimatable {
         }
@@ -4571,7 +4571,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CFlashbangProjectile {
         }
-        // Parent: _D_0__
+        // Parent: _DF___
         // Field count: 0
         public static class CTriggerMultiple {
         }
@@ -5290,7 +5290,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CNmEventConsumerAttributes {
         }
-        // Parent: None
+        // Parent: MIsBoxedIntegerType
         // Field count: 0
         public static class CStopwatch {
         }
@@ -5458,7 +5458,7 @@ namespace CS2Dumper.Schemas {
         public static class PhysObjectHeader_t {
             public const nint  = 0x0; // 
         }
-        // Parent: 0__0__
+        // Parent: __B___
         // Field count: 0
         public static class CSimpleStopwatch {
         }
@@ -5672,7 +5672,7 @@ namespace CS2Dumper.Schemas {
         public static class CTakeDamageInfo {
             public const nint  = 0x0; // 
         }
-        // Parent: None
+        // Parent: DOOR_STATE_CLOSED
         // Field count: 0
         public static class CRandSimTimer {
         }

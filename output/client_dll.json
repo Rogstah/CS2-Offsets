@@ -181,7 +181,7 @@
       "CCSObserver_ObserverServices": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": "client"
       },
       "CCSObserver_UseServices": {
         "fields": {},
@@ -392,7 +392,7 @@
       "CEnvSoundscape": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": "xL���"
       },
       "CEnvSoundscapeAlias_snd_soundscape": {
         "fields": {},
@@ -549,7 +549,7 @@
       "CInfoInteraction": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": "xL���"
       },
       "CInfoOffscreenPanoramaTexture": {
         "fields": {},
@@ -1142,7 +1142,7 @@
       "CTimeline": {
         "fields": {},
         "metadata": [],
-        "parent": "��#�"
+        "parent": "p�\u0015y�"
       },
       "CTriggerFan": {
         "fields": {},
@@ -1172,7 +1172,7 @@
       "C_BaseButton": {
         "fields": {},
         "metadata": [],
-        "parent": "`��#�"
+        "parent": "p�\u0014y�"
       },
       "C_BaseCSGrenade": {
         "fields": {},
@@ -1227,7 +1227,7 @@
       "C_BasePlayerPawn": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": "xL���"
       },
       "C_BasePlayerWeapon": {
         "fields": {},
@@ -1272,7 +1272,7 @@
       "C_C4": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": "eLightEffectNone"
       },
       "C_CS2HudModelAddon": {
         "fields": {},
@@ -1422,7 +1422,7 @@
       "C_CSGameRules": {
         "fields": {},
         "metadata": [],
-        "parent": "MGetKV3ClassDefaults"
+        "parent": null
       },
       "C_CSGameRulesProxy": {
         "fields": {},
@@ -1457,12 +1457,12 @@
       "C_CSPlayerResource": {
         "fields": {},
         "metadata": [],
-        "parent": "client"
+        "parent": null
       },
       "C_CSTeam": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": "xL���"
       },
       "C_CSWeaponBase": {
         "fields": {},
@@ -1577,7 +1577,7 @@
       "C_EntityFlame": {
         "fields": {},
         "metadata": [],
-        "parent": "�\u001d�#�"
+        "parent": "`�\u0014y�"
       },
       "C_EnvCombinedLightProbeVolume": {
         "fields": {},
@@ -1817,7 +1817,7 @@
       "C_Item": {
         "fields": {},
         "metadata": [],
-        "parent": " ��#�"
+        "parent": "0�\u001by�"
       },
       "C_ItemDogtags": {
         "fields": {},
@@ -1832,7 +1832,7 @@
       "C_KeychainModule": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": "client"
       },
       "C_Knife": {
         "fields": {},
@@ -1912,7 +1912,7 @@
       "C_NametagModule": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": null
       },
       "C_NetTestBaseCombatCharacter": {
         "fields": {},
@@ -2112,7 +2112,7 @@
       "C_SkyCamera": {
         "fields": {},
         "metadata": [],
-        "parent": "0��#�"
+        "parent": "0�\u0015y�"
       },
       "C_SmokeGrenade": {
         "fields": {},
@@ -2302,7 +2302,7 @@
       "C_WeaponBaseItem": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": "client"
       },
       "C_WeaponBizon": {
         "fields": {},
@@ -2332,7 +2332,7 @@
       "C_WeaponG3SG1": {
         "fields": {},
         "metadata": [],
-        "parent": "client"
+        "parent": null
       },
       "C_WeaponGalilAR": {
         "fields": {},
@@ -2372,12 +2372,12 @@
       "C_WeaponMP5SD": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": "client"
       },
       "C_WeaponMP7": {
         "fields": {},
         "metadata": [],
-        "parent": "x1~#�"
+        "parent": "�0�x�"
       },
       "C_WeaponMP9": {
         "fields": {},
@@ -2462,7 +2462,7 @@
       "C_World": {
         "fields": {},
         "metadata": [],
-        "parent": "client"
+        "parent": null
       },
       "C_WorldModelGloves": {
         "fields": {},

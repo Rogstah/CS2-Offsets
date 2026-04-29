@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-22 15:37:44.602417 UTC
+// 2026-04-29 19:17:44.946586800 UTC
 
 pub const cs2_dumper = struct {
     pub const schemas = struct {
@@ -68,7 +68,7 @@ pub const cs2_dumper = struct {
             pub const CSSDSEndFrameViewInfo = struct {
                 pub const @"": usize = 0x0; // 
             };
-            // Parent: scenesystem
+            // Parent: None
             // Field count: 0
             pub const CSSDSMsg_PostLayer = struct {
             };
@@ -77,7 +77,7 @@ pub const cs2_dumper = struct {
             pub const CSSDSMsg_LayerBase = struct {
                 pub const @"": usize = 0x0; // 
             };
-            // Parent: None
+            // Parent: xL____
             // Field count: 0
             pub const CSSDSMsg_PreLayer = struct {
             };
