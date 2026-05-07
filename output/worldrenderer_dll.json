@@ -122,7 +122,7 @@
       "ExtraVertexStreamOverride_t": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": "xL\u0005T�"
       },
       "InfoForResourceTypeVMapResourceData_t": {
         "fields": {},
@@ -132,7 +132,7 @@
       "MaterialOverride_t": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": "xL\u0005T�"
       },
       "NodeData_t": {
         "fields": {

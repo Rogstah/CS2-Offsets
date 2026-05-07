@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-29 19:17:44.946586800 UTC
+// 2026-05-07 22:29:01.092300400 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: animationsystem.dll
@@ -2123,7 +2123,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CNmVectorInfoNode__CDefinition {
         }
-        // Parent: xL____
+        // Parent: xL_T__
         // Field count: 0
         public static class AnimationSnapshot_t {
         }

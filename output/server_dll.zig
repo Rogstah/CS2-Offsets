@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-29 19:17:44.946586800 UTC
+// 2026-05-07 22:29:01.092300400 UTC
 
 pub const cs2_dumper = struct {
     pub const schemas = struct {
@@ -1999,7 +1999,7 @@ pub const cs2_dumper = struct {
                 MOVETYPE_CUSTOM = 0xA,
                 MOVETYPE_LAST = 0xB
             };
-            // Parent: xL____
+            // Parent: xL_T__
             // Field count: 0
             pub const CWeaponNOVA = struct {
             };
@@ -2083,7 +2083,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CWeaponRevolver = struct {
             };
-            // Parent: None
+            // Parent: xL_T__
             // Field count: 0
             pub const CFuncTrainControls = struct {
             };
@@ -2103,7 +2103,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CTonemapController2Alias_env_tonemap_controller2 = struct {
             };
-            // Parent: None
+            // Parent: MPhysPtr
             // Field count: 0
             pub const CPathTrack = struct {
             };
@@ -2148,7 +2148,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CPulse_ResumePoint = struct {
             };
-            // Parent: xL____
+            // Parent: xL_T__
             // Field count: 0
             pub const CTriggerFan = struct {
             };
@@ -2228,7 +2228,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CCSPlayer_UseServices = struct {
             };
-            // Parent: eLightEffectNone
+            // Parent: None
             // Field count: 0
             pub const CWeaponAWP = struct {
             };
@@ -2252,7 +2252,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CCSBot = struct {
             };
-            // Parent: PreloaderGameSystem_
+            // Parent: None
             // Field count: 0
             pub const CHandleTest = struct {
             };
@@ -2260,7 +2260,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CLogicNPCCounter = struct {
             };
-            // Parent: xL____
+            // Parent: None
             // Field count: 0
             pub const CCSPlayer_RadioServices = struct {
             };
@@ -2300,7 +2300,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CTestPulseIOAPI = struct {
             };
-            // Parent: server
+            // Parent: None
             // Field count: 0
             pub const CCSWeaponBaseShotgun = struct {
             };
@@ -2308,7 +2308,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CPrecipitationVData = struct {
             };
-            // Parent: MOVELINEAR_AUTHORED_AT_START_POSITION
+            // Parent: None
             // Field count: 0
             pub const CFuncMoveLinear = struct {
             };
@@ -2324,7 +2324,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CScriptItem = struct {
             };
-            // Parent: xL____
+            // Parent: xL_T__
             // Field count: 0
             pub const CDynamicPropAlias_prop_dynamic_override = struct {
             };
@@ -2360,7 +2360,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CSmokeGrenade = struct {
             };
-            // Parent: xL____
+            // Parent: xL_T__
             // Field count: 0
             pub const CBaseCombatCharacter = struct {
             };
@@ -2400,7 +2400,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CGamePlayerEquip = struct {
             };
-            // Parent: xL____
+            // Parent: xL_T__
             // Field count: 0
             pub const CPointEntityFinder = struct {
             };
@@ -2445,7 +2445,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CRenderComponent = struct {
             };
-            // Parent: xL____
+            // Parent: xL_T__
             // Field count: 0
             pub const CWaterBullet = struct {
             };
@@ -2599,7 +2599,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const COmniLight = struct {
             };
-            // Parent: xL____
+            // Parent: xL_T__
             // Field count: 0
             pub const CTriggerVolume = struct {
             };
@@ -2650,7 +2650,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CPulseCell_Value_Gradient = struct {
             };
-            // Parent: xL____
+            // Parent: None
             // Field count: 0
             pub const CParticleSystem = struct {
             };
@@ -2713,7 +2713,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CCSGO_TeamSelectTerroristPosition = struct {
             };
-            // Parent: MGetKV3ClassDefaults
+            // Parent: None
             // Field count: 0
             pub const CInfoData = struct {
             };
@@ -2741,7 +2741,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const FilterHealth = struct {
             };
-            // Parent: server
+            // Parent: None
             // Field count: 0
             pub const CCSSprite = struct {
             };
@@ -2773,7 +2773,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CPathSimpleAPI = struct {
             };
-            // Parent: _
+            // Parent: None
             // Field count: 0
             pub const CCSObserverPawn = struct {
             };
@@ -2823,7 +2823,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CEconEntity = struct {
             };
-            // Parent: xL____
+            // Parent: None
             // Field count: 0
             pub const CTankTargetChange = struct {
             };
@@ -2847,7 +2847,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CLogicDistanceAutosave = struct {
             };
-            // Parent: __E___
+            // Parent: з____
             // Field count: 0
             pub const CLogicBranch = struct {
             };
@@ -2855,7 +2855,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CPulseCell_Outflow_ScriptedSequence = struct {
             };
-            // Parent: server
+            // Parent: xL_T__
             // Field count: 0
             pub const CFuncTrackChange = struct {
             };
@@ -2875,7 +2875,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CSoundEventPathCornerEntity = struct {
             };
-            // Parent: xL____
+            // Parent: xL_T__
             // Field count: 0
             pub const CCSPlayerBase_CameraServices = struct {
             };
@@ -2903,7 +2903,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CEnvLightProbeVolume = struct {
             };
-            // Parent: xL____
+            // Parent: xL_T__
             // Field count: 0
             pub const SpawnPoint = struct {
             };
@@ -2972,7 +2972,7 @@ pub const cs2_dumper = struct {
             pub const CPulse_InvokeBinding = struct {
                 pub const @"": usize = 0x0; // 
             };
-            // Parent: None
+            // Parent: xL_T__
             // Field count: 0
             pub const CTriggerLook = struct {
             };
@@ -2992,7 +2992,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CPhysTorque = struct {
             };
-            // Parent: xL____
+            // Parent: xL_T__
             // Field count: 0
             pub const CMultiSource = struct {
             };
@@ -3116,7 +3116,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CChoreoInfoTarget = struct {
             };
-            // Parent: xL____
+            // Parent: xL_T__
             // Field count: 0
             pub const CTonemapController2 = struct {
             };
@@ -3148,7 +3148,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CHandleDummy = struct {
             };
-            // Parent: server
+            // Parent: None
             // Field count: 0
             pub const CFuncWallToggle = struct {
             };
@@ -3156,7 +3156,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CCSPlayer_BulletServices = struct {
             };
-            // Parent: xL____
+            // Parent: xL_T__
             // Field count: 0
             pub const CSkyCamera = struct {
             };
@@ -3237,7 +3237,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CDynamicPropAlias_cable_dynamic = struct {
             };
-            // Parent: server
+            // Parent: None
             // Field count: 0
             pub const CCSObserver_CameraServices = struct {
             };
@@ -3265,7 +3265,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CPulseCell_BaseFlow = struct {
             };
-            // Parent: None
+            // Parent: _
             // Field count: 0
             pub const CBombTarget = struct {
             };
@@ -3359,7 +3359,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CWeaponMAC10 = struct {
             };
-            // Parent: xL____
+            // Parent: xL_T__
             // Field count: 0
             pub const CFuncLadder = struct {
             };
@@ -3484,7 +3484,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CPhysLength = struct {
             };
-            // Parent: xL____
+            // Parent: xL_T__
             // Field count: 0
             pub const CTeam = struct {
             };
@@ -3558,7 +3558,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CRotatorTarget = struct {
             };
-            // Parent: server
+            // Parent: None
             // Field count: 0
             pub const CPhysicsEntitySolver = struct {
             };
@@ -3633,7 +3633,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CCSGO_TeamPreviewCharacterPosition = struct {
             };
-            // Parent: _GB___
+            // Parent: _W____
             // Field count: 0
             pub const CGameRulesProxy = struct {
             };
@@ -3804,7 +3804,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CPulseCell_Inflow_ObservableVariableListener = struct {
             };
-            // Parent: xL____
+            // Parent: xL_T__
             // Field count: 0
             pub const CFuncMonitor = struct {
             };
@@ -3816,7 +3816,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CGunTarget = struct {
             };
-            // Parent: xL____
+            // Parent: xL_T__
             // Field count: 0
             pub const CSoundEventConeEntity = struct {
             };
@@ -3828,7 +3828,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CFilterMultipleAPI = struct {
             };
-            // Parent: None
+            // Parent: xL_T__
             // Field count: 0
             pub const CDecoyProjectile = struct {
             };
@@ -3876,7 +3876,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CHEGrenadeProjectile = struct {
             };
-            // Parent: server
+            // Parent: None
             // Field count: 0
             pub const CTriggerGravity = struct {
             };
@@ -3974,7 +3974,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CCSGO_TeamIntroCounterTerroristPosition = struct {
             };
-            // Parent: xL____
+            // Parent: xL_T__
             // Field count: 0
             pub const CRagdollProp = struct {
             };
@@ -3982,7 +3982,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CScriptComponent = struct {
             };
-            // Parent: server
+            // Parent: None
             // Field count: 0
             pub const CFuncTrain = struct {
             };
@@ -4002,11 +4002,11 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CPhysHinge = struct {
             };
-            // Parent: None
+            // Parent: _
             // Field count: 0
             pub const CBuyZone = struct {
             };
-            // Parent: xL____
+            // Parent: None
             // Field count: 0
             pub const CInfoChoreoAnchor = struct {
             };
@@ -4102,7 +4102,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CLightComponent = struct {
             };
-            // Parent: xL____
+            // Parent: server
             // Field count: 0
             pub const CCSWeaponBase = struct {
             };
@@ -4170,7 +4170,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CBaseDMStart = struct {
             };
-            // Parent: xL____
+            // Parent: xL_T__
             // Field count: 0
             pub const CBaseModelEntity = struct {
             };
@@ -4242,7 +4242,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CEnvSoundscapeProxyAlias_snd_soundscape_proxy = struct {
             };
-            // Parent: None
+            // Parent: xL_T__
             // Field count: 0
             pub const CVoteController = struct {
             };
@@ -4258,7 +4258,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CPhysImpact = struct {
             };
-            // Parent: xL____
+            // Parent: xL_T__
             // Field count: 0
             pub const CBaseEntity = struct {
             };
@@ -4270,11 +4270,11 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CGameSceneNodeHandle = struct {
             };
-            // Parent: xL____
+            // Parent: xL_T__
             // Field count: 0
             pub const CMarkupVolumeWithRef = struct {
             };
-            // Parent: xL____
+            // Parent: None
             // Field count: 0
             pub const CCSGO_TeamSelectCharacterPosition = struct {
             };
@@ -4282,7 +4282,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CPulseCell_Unknown = struct {
             };
-            // Parent: server
+            // Parent: None
             // Field count: 0
             pub const CFuncPlatRot = struct {
             };
@@ -4350,7 +4350,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CEnvBeverage = struct {
             };
-            // Parent: xL____
+            // Parent: xL_T__
             // Field count: 0
             pub const CPhysMotor = struct {
             };
@@ -4383,7 +4383,7 @@ pub const cs2_dumper = struct {
             pub const CPulse_BlackboardReference = struct {
                 pub const @"": usize = 0x0; // 
             };
-            // Parent: xL____
+            // Parent: None
             // Field count: 0
             pub const CFuncTankTrain = struct {
             };
@@ -4452,7 +4452,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CPointGamestatsCounter = struct {
             };
-            // Parent: server
+            // Parent: None
             // Field count: 0
             pub const CTextureBasedAnimatable = struct {
             };
@@ -4460,7 +4460,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CSprite = struct {
             };
-            // Parent: xL____
+            // Parent: xL_T__
             // Field count: 0
             pub const CBaseMoveBehavior = struct {
             };
@@ -4536,7 +4536,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CFlashbangProjectile = struct {
             };
-            // Parent: _DF___
+            // Parent: _T____
             // Field count: 0
             pub const CTriggerMultiple = struct {
             };
@@ -4565,7 +4565,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CWeaponCZ75a = struct {
             };
-            // Parent: None
+            // Parent: server
             // Field count: 0
             pub const CScriptTriggerPush = struct {
             };
@@ -4577,7 +4577,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CTriggerBombReset = struct {
             };
-            // Parent: None
+            // Parent: P_____
             // Field count: 0
             pub const CTriggerHurt = struct {
             };
@@ -4597,7 +4597,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CInfoInstructorHintBombTargetA = struct {
             };
-            // Parent: xL____
+            // Parent: xL_T__
             // Field count: 0
             pub const CTeamplayRules = struct {
             };
@@ -4609,7 +4609,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CCSGO_WingmanIntroCharacterPosition = struct {
             };
-            // Parent: None
+            // Parent: Primary_Mode
             // Field count: 0
             pub const CWeaponMP9 = struct {
             };
@@ -4694,7 +4694,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CPlayer_WeaponServices = struct {
             };
-            // Parent: xL____
+            // Parent: xL_T__
             // Field count: 0
             pub const CRagdollPropAttached = struct {
             };
@@ -4758,7 +4758,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CFuncMover = struct {
             };
-            // Parent: None
+            // Parent: MNotSaved
             // Field count: 0
             pub const CPhysicsProp = struct {
             };
@@ -4864,7 +4864,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CPulseCell_LimitCount__Criteria_t = struct {
             };
-            // Parent: xL____
+            // Parent: xL_T__
             // Field count: 0
             pub const CFuncRotator = struct {
             };
@@ -4876,7 +4876,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CInfoPlayerCounterterrorist = struct {
             };
-            // Parent: xL____
+            // Parent: xL_T__
             // Field count: 0
             pub const CEnvFade = struct {
             };
@@ -4913,7 +4913,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CBasePropDoor = struct {
             };
-            // Parent: xL____
+            // Parent: xL_T__
             // Field count: 0
             pub const CLogicBranchList = struct {
             };
@@ -4969,7 +4969,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CInfoTargetServerOnly = struct {
             };
-            // Parent: server
+            // Parent: None
             // Field count: 0
             pub const CServerRagdollTrigger = struct {
             };
@@ -5001,7 +5001,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CTriggerLerpObject = struct {
             };
-            // Parent: xL____
+            // Parent: xL_T__
             // Field count: 0
             pub const CPhysicsPropOverride = struct {
             };
@@ -5255,7 +5255,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CNmEventConsumerAttributes = struct {
             };
-            // Parent: MIsBoxedIntegerType
+            // Parent: MPropertySuppressEnumerator
             // Field count: 0
             pub const CStopwatch = struct {
             };
@@ -5289,7 +5289,7 @@ pub const cs2_dumper = struct {
             pub const PointCameraSettings_t = struct {
                 pub const @"": usize = 0x0; // 
             };
-            // Parent: xL____
+            // Parent: xL_T__
             // Field count: 0
             pub const DebugDrawBoneTransforms_t = struct {
             };
@@ -5406,7 +5406,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CWorldCompositionChunkReferenceElement_t = struct {
             };
-            // Parent: None
+            // Parent: MIsBoxedIntegerType
             // Field count: 0
             pub const CRandStopwatch = struct {
             };
@@ -5423,7 +5423,7 @@ pub const cs2_dumper = struct {
             pub const PhysObjectHeader_t = struct {
                 pub const @"": usize = 0x0; // 
             };
-            // Parent: __B___
+            // Parent: ______
             // Field count: 0
             pub const CSimpleStopwatch = struct {
             };
@@ -5582,7 +5582,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CMotorController = struct {
             };
-            // Parent: None
+            // Parent: ITEM_FLAG_NONE
             // Field count: 0
             pub const CSimTimer = struct {
             };
@@ -5637,7 +5637,7 @@ pub const cs2_dumper = struct {
             pub const CTakeDamageInfo = struct {
                 pub const @"": usize = 0x0; // 
             };
-            // Parent: DOOR_STATE_CLOSED
+            // Parent: None
             // Field count: 0
             pub const CRandSimTimer = struct {
             };

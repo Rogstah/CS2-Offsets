@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-29 19:17:44.946586800 UTC
+// 2026-05-07 22:29:01.092300400 UTC
 
 #pragma once
 
@@ -2129,7 +2129,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CNmVectorInfoNode__CDefinition {
             }
-            // Parent: xL____
+            // Parent: xL_T__
             // Field count: 0
             namespace AnimationSnapshot_t {
             }

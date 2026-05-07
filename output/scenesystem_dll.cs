@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-29 19:17:44.946586800 UTC
+// 2026-05-07 22:29:01.092300400 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: scenesystem.dll
@@ -78,7 +78,7 @@ namespace CS2Dumper.Schemas {
         public static class CSSDSMsg_LayerBase {
             public const nint  = 0x0; // 
         }
-        // Parent: xL____
+        // Parent: None
         // Field count: 0
         public static class CSSDSMsg_PreLayer {
         }

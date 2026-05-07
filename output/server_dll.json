@@ -197,7 +197,7 @@
       "CBaseCombatCharacter": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": "xL\u0005T�"
       },
       "CBaseDMStart": {
         "fields": {},
@@ -212,7 +212,7 @@
       "CBaseEntity": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": "xL\u0005T�"
       },
       "CBaseEntityAPI": {
         "fields": {},
@@ -237,7 +237,7 @@
       "CBaseModelEntity": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": "xL\u0005T�"
       },
       "CBaseModelEntityAPI": {
         "fields": {},
@@ -254,7 +254,7 @@
       "CBaseMoveBehavior": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": "xL\u0005T�"
       },
       "CBasePlatTrain": {
         "fields": {},
@@ -359,7 +359,7 @@
       "CBombTarget": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": "\u0001"
       },
       "CBot": {
         "fields": {},
@@ -434,7 +434,7 @@
       "CBuyZone": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": "\u0001"
       },
       "CC4": {
         "fields": {},
@@ -499,7 +499,7 @@
       "CCSGO_TeamSelectCharacterPosition": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": null
       },
       "CCSGO_TeamSelectCounterTerroristPosition": {
         "fields": {},
@@ -566,12 +566,12 @@
       "CCSObserverPawn": {
         "fields": {},
         "metadata": [],
-        "parent": "\u0001"
+        "parent": null
       },
       "CCSObserver_CameraServices": {
         "fields": {},
         "metadata": [],
-        "parent": "server"
+        "parent": null
       },
       "CCSObserver_MovementServices": {
         "fields": {},
@@ -606,7 +606,7 @@
       "CCSPlayerBase_CameraServices": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": "xL\u0005T�"
       },
       "CCSPlayerController": {
         "fields": {},
@@ -716,7 +716,7 @@
       "CCSPlayer_RadioServices": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": null
       },
       "CCSPlayer_UseServices": {
         "fields": {},
@@ -746,7 +746,7 @@
       "CCSSprite": {
         "fields": {},
         "metadata": [],
-        "parent": "server"
+        "parent": null
       },
       "CCSTeam": {
         "fields": {},
@@ -756,7 +756,7 @@
       "CCSWeaponBase": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": "server"
       },
       "CCSWeaponBaseGun": {
         "fields": {},
@@ -766,7 +766,7 @@
       "CCSWeaponBaseShotgun": {
         "fields": {},
         "metadata": [],
-        "parent": "server"
+        "parent": null
       },
       "CCSWeaponBaseVData": {
         "fields": {},
@@ -906,7 +906,7 @@
       "CDecoyProjectile": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": "xL\u0005T�"
       },
       "CDestructiblePart": {
         "fields": {
@@ -964,7 +964,7 @@
       "CDynamicPropAlias_prop_dynamic_override": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": "xL\u0005T�"
       },
       "CEconEntity": {
         "fields": {},
@@ -1101,7 +1101,7 @@
       "CEnvFade": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": "xL\u0005T�"
       },
       "CEnvGlobal": {
         "fields": {},
@@ -1398,7 +1398,7 @@
       "CFuncLadder": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": "xL\u0005T�"
       },
       "CFuncLadderAlias_func_useableladder": {
         "fields": {},
@@ -1408,12 +1408,12 @@
       "CFuncMonitor": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": "xL\u0005T�"
       },
       "CFuncMoveLinear": {
         "fields": {},
         "metadata": [],
-        "parent": "MOVELINEAR_AUTHORED_AT_START_POSITION"
+        "parent": null
       },
       "CFuncMoveLinearAlias_momentary_door": {
         "fields": {},
@@ -1448,7 +1448,7 @@
       "CFuncPlatRot": {
         "fields": {},
         "metadata": [],
-        "parent": "server"
+        "parent": null
       },
       "CFuncPropRespawnZone": {
         "fields": {},
@@ -1468,7 +1468,7 @@
       "CFuncRotator": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": "xL\u0005T�"
       },
       "CFuncShatterglass": {
         "fields": {},
@@ -1478,7 +1478,7 @@
       "CFuncTankTrain": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": null
       },
       "CFuncTimescale": {
         "fields": {},
@@ -1493,7 +1493,7 @@
       "CFuncTrackChange": {
         "fields": {},
         "metadata": [],
-        "parent": "server"
+        "parent": "xL\u0005T�"
       },
       "CFuncTrackTrain": {
         "fields": {},
@@ -1503,12 +1503,12 @@
       "CFuncTrain": {
         "fields": {},
         "metadata": [],
-        "parent": "server"
+        "parent": null
       },
       "CFuncTrainControls": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": "xL\u0005T�"
       },
       "CFuncVPhysicsClip": {
         "fields": {},
@@ -1528,7 +1528,7 @@
       "CFuncWallToggle": {
         "fields": {},
         "metadata": [],
-        "parent": "server"
+        "parent": null
       },
       "CFuncWater": {
         "fields": {},
@@ -1573,7 +1573,7 @@
       "CGameRulesProxy": {
         "fields": {},
         "metadata": [],
-        "parent": " GB{�"
+        "parent": "�W���"
       },
       "CGameSceneNode": {
         "fields": {},
@@ -1640,7 +1640,7 @@
       "CHandleTest": {
         "fields": {},
         "metadata": [],
-        "parent": "PreloaderGameSystem,"
+        "parent": null
       },
       "CHintMessage": {
         "fields": {},
@@ -1705,7 +1705,7 @@
       "CInfoChoreoAnchor": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": null
       },
       "CInfoChoreoAnchorPosition": {
         "fields": {},
@@ -1715,7 +1715,7 @@
       "CInfoData": {
         "fields": {},
         "metadata": [],
-        "parent": "MGetKV3ClassDefaults"
+        "parent": null
       },
       "CInfoDeathmatchSpawn": {
         "fields": {},
@@ -1965,12 +1965,12 @@
       "CLogicBranch": {
         "fields": {},
         "metadata": [],
-        "parent": "��E{�"
+        "parent": "з���"
       },
       "CLogicBranchList": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": "xL\u0005T�"
       },
       "CLogicCase": {
         "fields": {},
@@ -2110,7 +2110,7 @@
       "CMarkupVolumeWithRef": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": "xL\u0005T�"
       },
       "CMathColorBlend": {
         "fields": {},
@@ -2185,7 +2185,7 @@
       "CMultiSource": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": "xL\u0005T�"
       },
       "CMultiplayRules": {
         "fields": {},
@@ -2354,7 +2354,7 @@
       "CParticleSystem": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": null
       },
       "CPathCorner": {
         "fields": {},
@@ -2419,7 +2419,7 @@
       "CPathTrack": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": "MPhysPtr"
       },
       "CPathWithDynamicNodes": {
         "fields": {},
@@ -2484,7 +2484,7 @@
       "CPhysMotor": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": "xL\u0005T�"
       },
       "CPhysMotorAPI": {
         "fields": {},
@@ -2538,12 +2538,12 @@
       "CPhysicsEntitySolver": {
         "fields": {},
         "metadata": [],
-        "parent": "server"
+        "parent": null
       },
       "CPhysicsProp": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": "MNotSaved"
       },
       "CPhysicsPropMultiplayer": {
         "fields": {},
@@ -2553,7 +2553,7 @@
       "CPhysicsPropOverride": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": "xL\u0005T�"
       },
       "CPhysicsPropRespawnable": {
         "fields": {},
@@ -2723,7 +2723,7 @@
       "CPointEntityFinder": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": "xL\u0005T�"
       },
       "CPointGamestatsCounter": {
         "fields": {},
@@ -3342,7 +3342,7 @@
       "CRagdollProp": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": "xL\u0005T�"
       },
       "CRagdollPropAlias_physics_prop_ragdoll": {
         "fields": {},
@@ -3352,17 +3352,17 @@
       "CRagdollPropAttached": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": "xL\u0005T�"
       },
       "CRandSimTimer": {
         "fields": {},
         "metadata": [],
-        "parent": "DOOR_STATE_CLOSED"
+        "parent": "None"
       },
       "CRandStopwatch": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": "MIsBoxedIntegerType"
       },
       "CRangeFloat": {
         "fields": {},
@@ -3561,7 +3561,7 @@
       "CScriptTriggerPush": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": "server"
       },
       "CScriptUniformRandomStream": {
         "fields": {},
@@ -3591,7 +3591,7 @@
       "CServerRagdollTrigger": {
         "fields": {},
         "metadata": [],
-        "parent": "server"
+        "parent": null
       },
       "CShatterGlassShard": {
         "fields": {
@@ -3613,7 +3613,7 @@
       "CSimTimer": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": "ITEM_FLAG_NONE"
       },
       "CSimpleMarkupVolumeTagged": {
         "fields": {},
@@ -3628,7 +3628,7 @@
       "CSimpleStopwatch": {
         "fields": {},
         "metadata": [],
-        "parent": "��B{�"
+        "parent": "�����"
       },
       "CSingleplayRules": {
         "fields": {},
@@ -3665,7 +3665,7 @@
       "CSkyCamera": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": "xL\u0005T�"
       },
       "CSkyboxReference": {
         "fields": {},
@@ -3717,7 +3717,7 @@
       "CSoundEventConeEntity": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": "xL\u0005T�"
       },
       "CSoundEventEntity": {
         "fields": {},
@@ -3829,7 +3829,7 @@
       "CStopwatch": {
         "fields": {},
         "metadata": [],
-        "parent": "MIsBoxedIntegerType"
+        "parent": "MPropertySuppressEnumerator"
       },
       "CStopwatchBase": {
         "fields": {},
@@ -3863,7 +3863,7 @@
       "CTankTargetChange": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": null
       },
       "CTankTrainAI": {
         "fields": {},
@@ -3873,12 +3873,12 @@
       "CTeam": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": "xL\u0005T�"
       },
       "CTeamplayRules": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": "xL\u0005T�"
       },
       "CTestEffect": {
         "fields": {},
@@ -3948,7 +3948,7 @@
       "CTextureBasedAnimatable": {
         "fields": {},
         "metadata": [],
-        "parent": "server"
+        "parent": null
       },
       "CTimeline": {
         "fields": {},
@@ -3963,7 +3963,7 @@
       "CTonemapController2": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": "xL\u0005T�"
       },
       "CTonemapController2Alias_env_tonemap_controller2": {
         "fields": {},
@@ -4018,7 +4018,7 @@
       "CTriggerFan": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": "xL\u0005T�"
       },
       "CTriggerGameEvent": {
         "fields": {},
@@ -4028,7 +4028,7 @@
       "CTriggerGravity": {
         "fields": {},
         "metadata": [],
-        "parent": "server"
+        "parent": null
       },
       "CTriggerHostageReset": {
         "fields": {},
@@ -4038,7 +4038,7 @@
       "CTriggerHurt": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": "P@���"
       },
       "CTriggerImpact": {
         "fields": {},
@@ -4053,12 +4053,12 @@
       "CTriggerLook": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": "xL\u0005T�"
       },
       "CTriggerMultiple": {
         "fields": {},
         "metadata": [],
-        "parent": "�DF{�"
+        "parent": "�T���"
       },
       "CTriggerOnce": {
         "fields": {},
@@ -4113,7 +4113,7 @@
       "CTriggerVolume": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": "xL\u0005T�"
       },
       "CVectorExponentialMovingAverage": {
         "fields": {},
@@ -4128,17 +4128,17 @@
       "CVoteController": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": "xL\u0005T�"
       },
       "CWaterBullet": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": "xL\u0005T�"
       },
       "CWeaponAWP": {
         "fields": {},
         "metadata": [],
-        "parent": "eLightEffectNone"
+        "parent": null
       },
       "CWeaponAug": {
         "fields": {},
@@ -4228,7 +4228,7 @@
       "CWeaponMP9": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": "Primary_Mode"
       },
       "CWeaponMag7": {
         "fields": {},
@@ -4238,7 +4238,7 @@
       "CWeaponNOVA": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": "xL\u0005T�"
       },
       "CWeaponNegev": {
         "fields": {},
@@ -4335,7 +4335,7 @@
       "DebugDrawBoneTransforms_t": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": "xL\u0005T�"
       },
       "DebugSnapshotBaseStructuredData_t": {
         "fields": {
@@ -4709,7 +4709,7 @@
       "SpawnPoint": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": "xL\u0005T�"
       },
       "SummaryTakeDamageInfo_t": {
         "fields": {},

@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-29 19:17:44.946586800 UTC
+// 2026-05-07 22:29:01.092300400 UTC
 
 pub const cs2_dumper = struct {
     pub const schemas = struct {
@@ -7,7 +7,7 @@ pub const cs2_dumper = struct {
         // Class count: 2
         // Enum count: 0
         pub const host_dll = struct {
-            // Parent: xL____
+            // Parent: None
             // Field count: 0
             pub const EmptyTestScript = struct {
             };
